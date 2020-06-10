@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: #ecebeb;
+}
+.container{
+    width: 95%;
+    text-align: center;
+    display: block;
+}
+.header{
+    display: inline-block;
+}
+
+.header img{
+    float: left;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    margin-top: 20px;
+}
+.header h1{
+    float: right;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+hr{
+    clear: both;
+}
+.img-logo{
+    display: inline-block;
+}
+
+.img-top{
+    margin: 50px;
+}
+.img-top a{
+    margin-left: 20px;
+}
+.img-lower{
+    margin: 50px;
+}
+.img-lower a{
+    margin-left: 20px;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 3px;
+}
